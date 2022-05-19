@@ -1,0 +1,55 @@
+C:\Users\hi\Desktop\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.csproj.AssemblyReference.cache
+C:\Users\hi\Desktop\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\Desktop\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.AssemblyInfoInputs.cache
+C:\Users\hi\Desktop\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.AssemblyInfo.cs
+C:\Users\hi\Desktop\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\hi\Desktop\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.exe
+C:\Users\hi\Desktop\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.deps.json
+C:\Users\hi\Desktop\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.runtimeconfig.json
+C:\Users\hi\Desktop\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.runtimeconfig.dev.json
+C:\Users\hi\Desktop\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.dll
+C:\Users\hi\Desktop\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.pdb
+C:\Users\hi\Desktop\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.dll
+C:\Users\hi\Desktop\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.pdb
+C:\Users\hi\Desktop\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.genruntimeconfig.cache
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.exe
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.deps.json
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.runtimeconfig.json
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.runtimeconfig.dev.json
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.dll
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.pdb
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.csproj.AssemblyReference.cache
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.AssemblyInfoInputs.cache
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.AssemblyInfo.cs
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.csproj.CoreCompileInputs.cache
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.dll
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.pdb
+D:\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.genruntimeconfig.cache
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.exe
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.deps.json
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.runtimeconfig.json
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.runtimeconfig.dev.json
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.dll
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\bin\Debug\netcoreapp3.1\IFN563_Gomoku.pdb
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.csproj.AssemblyReference.cache
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.AssemblyInfoInputs.cache
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.AssemblyInfo.cs
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.dll
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.pdb
+C:\Users\n10945393\OneDrive - Queensland University of Technology\IFN 563 OOD\IFN563_Gomoku\obj\Debug\netcoreapp3.1\IFN563_Gomoku.genruntimeconfig.cache
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\bin\Debug\netcoreapp3.1\IFN563_Gomoku.exe
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\bin\Debug\netcoreapp3.1\IFN563_Gomoku.deps.json
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\bin\Debug\netcoreapp3.1\IFN563_Gomoku.runtimeconfig.json
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\bin\Debug\netcoreapp3.1\IFN563_Gomoku.runtimeconfig.dev.json
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\bin\Debug\netcoreapp3.1\IFN563_Gomoku.dll
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\bin\Debug\netcoreapp3.1\IFN563_Gomoku.pdb
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\obj\Debug\netcoreapp3.1\IFN563_Gomoku.csproj.AssemblyReference.cache
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\obj\Debug\netcoreapp3.1\IFN563_Gomoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\obj\Debug\netcoreapp3.1\IFN563_Gomoku.AssemblyInfoInputs.cache
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\obj\Debug\netcoreapp3.1\IFN563_Gomoku.AssemblyInfo.cs
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\obj\Debug\netcoreapp3.1\IFN563_Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\obj\Debug\netcoreapp3.1\IFN563_Gomoku.dll
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\obj\Debug\netcoreapp3.1\IFN563_Gomoku.pdb
+C:\Users\hi\Desktop\IFN563_Gomoku (2)\obj\Debug\netcoreapp3.1\IFN563_Gomoku.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\bin\Debug\netcoreapp3.1\Gomoku.exe
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\bin\Debug\netcoreapp3.1\Gomoku.deps.json
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\bin\Debug\netcoreapp3.1\Gomoku.runtimeconfig.json
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\bin\Debug\netcoreapp3.1\Gomoku.runtimeconfig.dev.json
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\bin\Debug\netcoreapp3.1\Gomoku.dll
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\bin\Debug\netcoreapp3.1\Gomoku.pdb
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\obj\Debug\netcoreapp3.1\Gomoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\obj\Debug\netcoreapp3.1\Gomoku.AssemblyInfoInputs.cache
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\obj\Debug\netcoreapp3.1\Gomoku.AssemblyInfo.cs
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\obj\Debug\netcoreapp3.1\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\obj\Debug\netcoreapp3.1\Gomoku.dll
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\obj\Debug\netcoreapp3.1\Gomoku.pdb
+C:\Users\hi\OneDrive - Queensland University of Technology\IFN 563 OOD\Gomoku\obj\Debug\netcoreapp3.1\Gomoku.genruntimeconfig.cache
